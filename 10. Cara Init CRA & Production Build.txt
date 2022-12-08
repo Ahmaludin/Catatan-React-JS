@@ -1,0 +1,54 @@
+Init CRA
+
+in Terminal
+
+- npx create-react-app nama-folder
+
+- cd latihan-react-cra
+
+- yarn start
+
+perkenalan folder cra
+
+node_modules : 
+
+public : tempat dimana static file ditaruh. cth: gambar,  json, txt, html, ico file static lainnya
+
+src : sumber kode aplikasi (tempat bekerja), tempat untuk membuat component dll
+
+
+____________
+
+Production Build With CRA
+
+- yarn build
+
+- npx serve -s build
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
